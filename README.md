@@ -147,3 +147,86 @@ body {
 p {
    background: #CCCCCC
 } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 ATUALLLLLLLL
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Barbearia Alura</title>
+    <link rel="stylesheet" href="style.css">
+     </head>
+
+   <body>
+     <h1 style="text-align: center;background: #CCCCCC">Sobre a Barbearia Alura</h1>
+
+     <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+     <p style="font-size: 20px;"> <em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes</strong>".</em></p>
+
+     <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+</body>
+</html>
+
+body {
+   background: #CCCCCC 
+  }
+
+p {
+     text-align: center;
+} 
+
+   em strong { 
+       color: #FF0000;
+    }
+    
+    
+    
+    bcdef....
+binário 01
+
+numérico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+#_ _ _ _ _ _
+
+0 = ausência 
+
+ F = Máximo 
+
+ #000000
+
+ #FFFFFF
+
+ #FF0000
+
+ red
+ blue
+ yellow
+
+ RGB 0,1,2,3,...255
+
+ 0 = ansência
+
+ 255 = máximo
+
+ rgb(255,255,255)
+
+ rgb(0,0,255)
